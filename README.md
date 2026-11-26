@@ -1,8 +1,8 @@
 # Fundamentals of Deep Learning
 
 # 한글화 된 ppt를 제공합니다. 만든이 젯슨맘 
+<img width="512" height="341" alt="FB_IMG_1795711857128(1)(1) (2)" src="https://github.com/user-attachments/assets/b59813dc-a899-485a-b735-03df5a4c16d3" />
 
-<img width="400" height="200" alt="1" src="https://github.com/user-attachments/assets/b2af5fba-0bab-4548-a0ce-dd510c2b76b6" />
 
 
 [![Launch on Brev](https://img.shields.io/badge/Launch%20on-Brev-76B900)](https://brev.nvidia.com/launchable/deploy?launchableID=env-3HUPbrETfS4CL0KfnkvdQh5VU9y&nvid=nv-bnr-294524) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
