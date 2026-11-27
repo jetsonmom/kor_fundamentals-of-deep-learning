@@ -1,7 +1,7 @@
 # Fundamentals of Deep Learning
 
 # 한글화 된 ppt를 제공합니다. 만든이 젯슨맘 
-# 어떤 ppt에는 내가 궁금했던 내용을 추가해서 설명을 했습니다.
+### 어떤 ppt에는 내가 궁금했던 내용을 추가해서 설명을 했습니다.
 <img width="512" height="341" alt="FB_IMG_1795711857128(1)(1) (2)" src="https://github.com/user-attachments/assets/b59813dc-a899-485a-b735-03df5a4c16d3" />
 
 
