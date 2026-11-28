@@ -41,6 +41,9 @@ https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
 #### cnn 이미지 처리 파이프라인 애니메이션 이미지를 하나 선택하고 수평, 수직, 블러  등 엣지를 이해.
 https://claude.ai/public/artifacts/2c09bc56-7cc3-4ea0-b3ca-7678aa107756
 
+#### 패딩 
+https://claude.ai/chat/1c611505-d452-4f57-a744-16b38fb89ae1?artifact=5ec09a1c-36d4-4e51-91ed-0a66b3e2c12e
+
 ## Usage
 
 ### Getting Started
