@@ -35,7 +35,7 @@ In this course, learners will:
 | 05 | Pre-Trained Models | [slides_05.pptx](./course_content/slides/slides_05.pptx) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="18" height="18" alt="GitHub"> 05a_doggy_door.ipynb](./course_content/tutorials/05a_doggy_door.ipynb) <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="18" height="18" alt="GitHub"> 05b_corgi_door.ipynb](./course_content/tutorials/05b_corgi_door.ipynb) | [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20" height="20" alt="Colab"> Doggy Door](https://colab.research.google.com/github/NVDLI/fundamentals-of-deep-learning/blob/main/course_content/tutorials/05a_doggy_door.ipynb) <br> [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20" height="20" alt="Colab"> Corgi Door](https://colab.research.google.com/github/NVDLI/fundamentals-of-deep-learning/blob/main/course_content/tutorials/05b_corgi_door.ipynb) |
 | 06 | Advanced Architectures | [slides_06.pptx](./course_content/slides/slides_06.pptx) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="18" height="18" alt="GitHub"> 06_nlp.ipynb](./course_content/tutorials/06_nlp.ipynb) | [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20" height="20" alt="Colab"> NLP](https://colab.research.google.com/github/NVDLI/fundamentals-of-deep-learning/blob/main/course_content/tutorials/06_nlp.ipynb) |
 
-
+다음 애니메이션은 젯슨맘이 claude도움으로 만들었음.
 #### cnn 컨볼루션 애니메이션 
 https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
 #### cnn 이미지 처리 파이프라인 애니메이션 이미지를 하나 선택하고 수평, 수직, 블러  등 엣지를 이해.
